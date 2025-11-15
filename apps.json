@@ -2,7 +2,7 @@
   {
     "name": "MAGIS TV",
     "package": "com.android.mgstv",
-    "downloadUrl": "https://www.mediafire.com/file/wx6jc6psspmkzlm/signMagisTV_TGMGS-1.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/XPR_oficial.apk",
     "color": "#FF9800",
     "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
     "column": 0,
@@ -11,7 +11,7 @@
   {
     "name": "SmartTube",
     "package": "com.teamsmart.videomanager.tv",
-    "downloadUrl": "https://www.mediafire.com/file/s3atcvl81qlubn6/smarttube_stable.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/smarttube_stable.apk",
     "color": "#ff6248",
     "iconUrl": "https://i.imgur.com/4PKPPMx.jpeg",
     "column": 0,
@@ -20,7 +20,7 @@
   {
     "name": "TelePlay WorldTV2",
     "package": "com.worldtv2.android.exoplayer2.tv2",
-    "downloadUrl": "https://www.mediafire.com/file/foc9gwsgsg0bdwd/worldtv2_3.0.7.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/worldtv2_3.0.8.apk",
     "color": "#9C27B0",
     "iconUrl": "https://i.imgur.com/stf9Ex0.jpeg",
     "column": 1,
