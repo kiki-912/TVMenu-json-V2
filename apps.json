@@ -6,7 +6,8 @@
     "color": "#FF9800",
     "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
     "column": 0,
-    "row": 0
+    "row": 0,
+    "category": "TV"
   },
   {
     "name": "SmartTube",
@@ -15,7 +16,8 @@
     "color": "#ff6248",
     "iconUrl": "https://i.imgur.com/4PKPPMx.jpeg",
     "column": 0,
-    "row": 1
+    "row": 1,
+    "category": "PELÍCULAS"
   },
   {
     "name": "TelePlay WorldTV2",
@@ -24,7 +26,8 @@
     "color": "#9C27B0",
     "iconUrl": "https://i.imgur.com/stf9Ex0.jpeg",
     "column": 1,
-    "row": 0
+    "row": 0,
+    "category": "TV"
   },
   {
     "name": "TV CLASICA",
@@ -33,7 +36,8 @@
     "color": "#23D12B",
     "iconUrl": "https://i.imgur.com/TH4OJga.jpeg",
     "column": 2,
-    "row": 0
+    "row": 0,
+    "category": "TV"
   },
   {
     "name": "PLAY TV+",
@@ -42,7 +46,8 @@
     "color": "#FF0000",
     "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
     "column": 3,
-    "row": 0
+    "row": 0,
+    "category": "TV"
   },
   {
     "name": "FA PLUS",
@@ -51,7 +56,8 @@
     "color": "#0B75C7",
     "iconUrl": "https://i.imgur.com/Vb4b3wU.jpeg",
     "column": 4,
-    "row": 0
+    "row": 0,
+    "category": "PELÍCULAS"
   },
   {
     "name": "MAGMA",
@@ -60,7 +66,8 @@
     "color": "#FFC107",
     "iconUrl": "https://i.imgur.com/d0K0nbk.jpeg",
     "column": 5,
-    "row": 0
+    "row": 0,
+    "category": "TV"
   },
   {
     "name": "FCTV33",
@@ -69,6 +76,7 @@
     "color": "#FFCC00",
     "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
     "column": 1,
-    "row": 1
+    "row": 1,
+    "category": "TV"
   }
 ]
