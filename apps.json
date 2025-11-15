@@ -1,0 +1,101 @@
+[
+  {
+    "name": "MAGIS TV",
+    "package": "com.android.mgstv",
+    "downloadUrl": "https://www.mediafire.com/file/wx6jc6psspmkzlm/signMagisTV_TGMGS-1.apk/file",
+    "color": "#FF9800",
+    "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
+    "column": 0,
+    "row": 0
+  },
+  {
+    "name": "SmartTube",
+    "package": "com.teamsmart.videomanager.tv",
+    "downloadUrl": "https://www.mediafire.com/file/s3atcvl81qlubn6/smarttube_stable.apk/file",
+    "color": "#ff6248",
+    "iconUrl": "https://i.imgur.com/4PKPPMx.jpeg",
+    "column": 0,
+    "row": 1
+  },
+  {
+    "name": "TelePlay WorldTV2",
+    "package": "com.worldtv2.android.exoplayer2.tv2",
+    "downloadUrl": "https://www.mediafire.com/file/foc9gwsgsg0bdwd/worldtv2_3.0.7.apk/file",
+    "color": "#9C27B0",
+    "iconUrl": "https://i.imgur.com/stf9Ex0.jpeg",
+    "column": 1,
+    "row": 0
+  },
+  {
+    "name": "TV ONLI",
+    "package": "com.google.android.tvonline.tvonline2",
+    "downloadUrl": "https://www.mediafire.com/file/b8k7bxy8lqiis2d/TVONLINE2_%25282%2529.apk/file",
+    "color": "#23D12B",
+    "iconUrl": "https://i.imgur.com/TH4OJga.jpeg",
+    "column": 2,
+    "row": 0
+  },
+  {
+    "name": "PLAY TV+",
+    "package": "com.google.android.playtv.playtv",
+    "downloadUrl": "https://www.mediafire.com/file/ffxsknph52122iq/Play_TV%252B__v1.0.1Mod.apk/file",
+    "color": "#FF0000",
+    "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
+    "column": 3,
+    "row": 0
+  },
+  {
+    "name": "FILM APP",
+    "package": "com.digitalproshare.filmapp",
+    "downloadUrl": "https://www.mediafire.com/file/urngnf09typ3hjs/Film_App_v4.4.7.apk/file",
+    "color": "#0B75C7",
+    "iconUrl": "https://i.imgur.com/Vb4b3wU.jpeg",
+    "column": 4,
+    "row": 0
+  },
+  {
+    "name": "MAGMA",
+    "package": "com.magmaplayer",
+    "downloadUrl": "https://www.mediafire.com/file/xjgx5s1pdo1et14/Magma1.0.7Vip.apk/file",
+    "color": "#FFC107",
+    "iconUrl": "https://i.imgur.com/d0K0nbk.jpeg",
+    "column": 5,
+    "row": 0
+  },
+  {
+    "name": "Pollito TV",
+    "package": "com.pollitovtv",
+    "downloadUrl": "https://www.mediafire.com/file/jpw981ektvrk17u/PollitoTv_30.0_Mod.apk/file",
+    "color": "#f8e2b0",
+    "iconUrl": "https://i.imgur.com/EWJvdf3.png",
+    "column": 1,
+    "row": 1
+  },
+  {
+    "name": "RB Eventos",
+    "package": "com.rb",
+    "downloadUrl": "https://www.mediafire.com/file/xuo4grkmn0q4a81/RBTV77%2528TV%2529_v1.0.62_mod.apk/file",
+    "color": "#fcbd4a",
+    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
+    "column": 2,
+    "row": 1
+  },
+  {
+    "name": "FCTV33",
+    "package": "com.fctv",
+    "downloadUrl": "https://www.mediafire.com/file/33n28j7cxqdm8pm/FCTV33%2528TV%2529_v3.0.306_tv_vip.apk/file",
+    "color": "#FFCC00",
+    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
+    "column": 3,
+    "row": 1
+  },
+  {
+    "name": "TV CLASICA",
+    "package": "com.tvclasica",
+    "downloadUrl": "https://www.mediafire.com/file/bq78h16flt8695y/TVCLASICA100.zip/file",
+    "color": "#471396",
+    "iconUrl": "https://i.imgur.com/109zFfJ.png",
+    "column": 4,
+    "row": 1
+  }
+]
