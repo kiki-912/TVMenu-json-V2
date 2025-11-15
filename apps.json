@@ -27,9 +27,9 @@
     "row": 0
   },
   {
-    "name": "TV ONLI",
+    "name": "TV CLASICA",
     "package": "com.google.android.tvonline.tvonline2",
-    "downloadUrl": "https://www.mediafire.com/file/b8k7bxy8lqiis2d/TVONLINE2_%25282%2529.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/TV.CLASICA-100.apk",
     "color": "#23D12B",
     "iconUrl": "https://i.imgur.com/TH4OJga.jpeg",
     "column": 2,
@@ -45,9 +45,9 @@
     "row": 0
   },
   {
-    "name": "FILM APP",
+    "name": "FA PLUS",
     "package": "com.digitalproshare.filmapp",
-    "downloadUrl": "https://www.mediafire.com/file/urngnf09typ3hjs/Film_App_v4.4.7.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/FilmPlus144TV.apk",
     "color": "#0B75C7",
     "iconUrl": "https://i.imgur.com/Vb4b3wU.jpeg",
     "column": 4,
@@ -63,39 +63,12 @@
     "row": 0
   },
   {
-    "name": "Pollito TV",
-    "package": "com.pollitovtv",
-    "downloadUrl": "https://www.mediafire.com/file/jpw981ektvrk17u/PollitoTv_30.0_Mod.apk/file",
-    "color": "#f8e2b0",
-    "iconUrl": "https://i.imgur.com/EWJvdf3.png",
-    "column": 1,
-    "row": 1
-  },
-  {
-    "name": "RB Eventos",
-    "package": "com.rb",
-    "downloadUrl": "https://www.mediafire.com/file/xuo4grkmn0q4a81/RBTV77%2528TV%2529_v1.0.62_mod.apk/file",
-    "color": "#fcbd4a",
-    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
-    "column": 2,
-    "row": 1
-  },
-  {
     "name": "FCTV33",
     "package": "com.fctv",
-    "downloadUrl": "https://www.mediafire.com/file/33n28j7cxqdm8pm/FCTV33%2528TV%2529_v3.0.306_tv_vip.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/FCTV33.TV.-3.0.309.apk",
     "color": "#FFCC00",
     "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
     "column": 3,
-    "row": 1
-  },
-  {
-    "name": "TV CLASICA",
-    "package": "com.tvclasica",
-    "downloadUrl": "https://www.mediafire.com/file/bq78h16flt8695y/TVCLASICA100.zip/file",
-    "color": "#471396",
-    "iconUrl": "https://i.imgur.com/109zFfJ.png",
-    "column": 4,
     "row": 1
   }
 ]
