@@ -1,6 +1,6 @@
 [
   {
-    "name": "MAGIS TV",
+    "name": "XUPER TV",
     "package": "com.android.mgstv",
     "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/XPR_oficial.apk",
     "color": "#FF9800",
@@ -42,7 +42,7 @@
   {
     "name": "PLAY TV+",
     "package": "com.google.android.playtv.playtv",
-    "downloadUrl": "https://www.mediafire.com/file/ffxsknph52122iq/Play_TV%252B__v1.0.1Mod.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Play.TV.Premium.Mod3.apk",
     "color": "#FF0000",
     "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
     "column": 3,
@@ -62,7 +62,7 @@
   {
     "name": "MAGMA",
     "package": "com.magmaplayer",
-    "downloadUrl": "https://www.mediafire.com/file/xjgx5s1pdo1et14/Magma1.0.7Vip.apk/file",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Magma_v10.apk",
     "color": "#FFC107",
     "iconUrl": "https://i.imgur.com/d0K0nbk.jpeg",
     "column": 5,
@@ -70,12 +70,22 @@
     "category": "TV"
   },
   {
-    "name": "FCTV33",
-    "package": "com.fctv",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/FCTV33.TV.-3.0.309.apk",
+    "name": "RBTV",
+    "package": "com.rbtv",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/com.rblive.tv-release-314-v3.0.314.apk",
     "color": "#FFCC00",
     "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
     "column": 1,
+    "row": 1,
+    "category": "TV"
+  },
+  {
+    "name": "FCTV33",
+    "package": "com.fctv",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/com.fctv77.tv-release-314-v3.0.314.apk",
+    "color": "#FFCC00",
+    "iconUrl": "https://i.imgur.com/9pfk5jh.jpeg",
+    "column": 6,
     "row": 1,
     "category": "TV"
   }
