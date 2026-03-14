@@ -22,7 +22,7 @@
   {
     "name": "TelePlay WorldTV2",
     "package": "com.worldtv2.android.exoplayer2.tv2",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/worldtv2_3.0.8.apk",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/TelePlay.WorldTV2.2.apk",
     "color": "#9C27B0",
     "iconUrl": "https://i.imgur.com/stf9Ex0.jpeg",
     "column": 1,
@@ -42,7 +42,7 @@
   {
     "name": "PLAY TV+",
     "package": "com.google.android.playtv.playtv",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Play.TV.Premium.Mod3.apk",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/play3.1.apk",
     "color": "#FF0000",
     "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
     "column": 3,
