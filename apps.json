@@ -2,7 +2,7 @@
   {
     "name": "XUPER TV",
     "package": "com.android.mgstv",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/XuperTv.V4.99.2.ClonerApp.apk",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Xuper.TV.4.99.2.Para.TV.Gratis.Clon.2.apk",
     "color": "#FF9800",
     "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
     "column": 0,
@@ -16,6 +16,26 @@
     "color": "#ff6248",
     "iconUrl": "https://i.imgur.com/4PKPPMx.jpeg",
     "column": 0,
+    "row": 1,
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "name": "UrbanVPN",
+    "package": "com.urbanvpn.android",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Urban_VPN-FULL1.0.95.apk",
+    "color": "#FF0062",
+    "iconUrl": "https://assets.techrepublic.com/uploads/2024/07/Urban-VPN-Featured-Image.jpg",
+    "column": 1,
+    "row": 1,
+    "category": "ENTRETENIMIENTO"
+  },
+  {
+    "name": "ProtonVPN",
+    "package": "ch.protonvpn.android",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/ProtonVPN-5.15.9.4.605150904.-production-vanilla-direct-release.apk",
+    "color": "#3C2CD4",
+    "iconUrl": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2023/06/Proton-VPN-scaled-820x461.jpg",
+    "column": 2,
     "row": 1,
     "category": "ENTRETENIMIENTO"
   },
@@ -42,7 +62,7 @@
   {
     "name": "PLAY TV+",
     "package": "com.google.android.playtv.playtv",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/play3.1.apk",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Play.TV.Premium.Mod3.apk",
     "color": "#FF0000",
     "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
     "column": 3,
@@ -60,9 +80,9 @@
     "category": "PELÍCULAS"
   },
   {
-    "name": "MAGMA",
-    "package": "com.magmaplayer",
-    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Magma_v10.apk",
+    "name": "GeeSports",
+    "package": "com.live.geesports",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/GeeSports_.apkdescargas.com.-1.apk",
     "color": "#FFC107",
     "iconUrl": "https://i.imgur.com/d0K0nbk.jpeg",
     "column": 5,
