@@ -10,6 +10,16 @@
     "category": "TV"
   },
   {
+    "name": "XUPER TV Mod",
+    "package": "com.android.mgstv",
+    "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/Xuper_TV.apk",
+    "color": "#FF9800",
+    "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
+    "column": 7,
+    "row": 0,
+    "category": "TV"
+  },
+  {
     "name": "SmartTube",
     "package": "com.teamsmart.videomanager.tv",
     "downloadUrl": "https://github.com/kiki-912/TVMenu-apks/releases/download/v1/smarttube_stable.apk",
